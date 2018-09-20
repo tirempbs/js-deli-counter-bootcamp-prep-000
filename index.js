@@ -1,8 +1,5 @@
-function takeANumber(katzDeliLine) {
-  var number = 0;
-  number++;
-  katzDeliLine.push(number);
-  return number;
+function takeANumber(line, name) {
+  
 }
 
 function nowServing(katzDeliLine) {
